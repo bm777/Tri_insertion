@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544110954 source:/home/bm7/Codeblocks/Tri_insertion/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1544110954 source:/home/bm7/GITHUB/Tri_insertion/main.c
+	<stdio.h>
+	<stdlib.h>
+
